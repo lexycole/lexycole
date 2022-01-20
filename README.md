@@ -6,8 +6,8 @@
 
 I'm a freelance JavaScript Fullstack Engineer (web/mobile). 
       -Fullstack Engineer at @LexycodeStudio.
-      -Fomer FrontEnd Developer at @SpacePenTech. 
-      -Fromer FrontEnd Developer at @Xcrowne.
+      -Former FrontEnd Developer at @SpacePenTech. 
+      -Former FrontEnd Developer at @Xcrowne.
       -I'm open to learning new technologies.
   
 - 🔭 I’m currently building and developing Native Mobile Applications and Native Web Applications.

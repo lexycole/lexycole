@@ -10,6 +10,7 @@ I'm a freelance ~JavaScript~ Fullstack Software Engineer (web/mobile).
       -Former FrontEnd Developer at @Xcrowne.
       -I'm open to learning new technologies.
   
+- 🔭 I’m currently speaking Javascript and recently upgrade my language to Python.
 - 🔭 I’m currently building and developing Native Mobile Applications and Native Web Applications.
 - 🔭 ~I’m currently working on Frontend projects.~
 - 🌱 I’m currently building and developing Android development using _Cordovva, Ionic, React Native and Vue Native~ .

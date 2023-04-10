@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="right" />
 
-I'm a freelance JavaScript Fullstack Engineer (web/mobile). 
+I'm a freelance ~JavaScript~ Fullstack Software Engineer (web/mobile). 
       -Fullstack Engineer at @LexycodeStudio.
       -Former FrontEnd Developer at @SpacePenTech. 
       -Former FrontEnd Developer at @Xcrowne.

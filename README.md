@@ -2,8 +2,7 @@
 
 ### I’m Olawale Akinro
 
-<img src="https://giphy.com/embed/LT8jeQGgiV0low1ZMj" align="right" />
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ0aWR1engzeHZncnhxeWdzdmdmdWtzcW1xdDJxajFoaHdwdjNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kw4sl0JtcvK6kryUqK/giphy.gif
+<img src="https://giphy.com/media/LT8jeQGgiV0low1ZMj" align="right" />
 
 I'm a Software Engineer (web/mobile/Blockchain). 
       -Fullstack Engineer at @LexycodeStudio.

@@ -3,6 +3,7 @@
 ### I’m Olawale Akinro
 
 <img src="https://giphy.com/embed/LT8jeQGgiV0low1ZMj" align="right" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/kw4sl0JtcvK6kryUqK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MicrosoftCloud-dev-msbuild-microsoft-build-kw4sl0JtcvK6kryUqK">via GIPHY</a></p>
 
 I'm a Software Engineer (web/mobile/Blockchain). 
       -Fullstack Engineer at @LexycodeStudio.

@@ -4,7 +4,7 @@ Greetings,👋
 
 📫I am Olawale Akinro, a seasoned Software Engineer proficient in web, mobile, and Blockchain technologies. Currently, I serve as a Fullstack Engineer at Lexycode Studio, leveraging my expertise to drive innovative solutions. With prior experiences at @Medix Court Support Service, @SpacePenTech, and @Xcrowne, I bring a wealth of knowledge in mobile and frontend development.
 
-⚛⛓️⚛️🅰️🐍📲 My skill set encompasses JavaScript, Python, and Dart, along with their associated frameworks and libraries. I specialize in crafting Native Mobile and Web Applications, as well as Progressive Web and Desktop Applications. Additionally, I am actively engaged in Blockchain projects, exploring decentralized technologies and their transformative potential.
+⚛⛓️⚛️🅰️🐍📲 My skill set encompasses JavaScript, Python, Solidity, and Dart, along with their associated frameworks and libraries. I specialize in crafting Native Mobile and Web Applications, as well as Progressive Web and Desktop Applications. Additionally, I am actively engaged in Blockchain projects, exploring decentralized technologies and their transformative potential.
 
 🔭I am deeply passionate about advancing Android development through tools like React-Native and Ionic. Open to collaboration, I am eager to contribute to Fullstack engineering projects that push the boundaries of innovation and excellence.
 
